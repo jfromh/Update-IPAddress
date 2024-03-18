@@ -1,36 +1,42 @@
 {
     "DNSServers": [
         {
+            "Index": 1,
             "Name": "Google",
             "Resolver": "ns1.google.com.",
             "Hostname": "o-o.myaddr.l.google.com.",
             "Type": "TXT"
         },
         {
+            "Index": 2,
             "Name": "Google",
             "Resolver": "ns2.google.com.",
             "Hostname": "o-o.myaddr.l.google.com.",
             "Type": "TXT"
         },
         {
+            "Index": 3,
             "Name": "OpenDNS",
             "Resolver": "resolver1.opendns.com.",
             "Hostname": "myip.opendns.com.",
             "Type": "A"
         },
         {
+            "Index": 4,
             "Name": "OpenDNS",
             "Resolver": "resolver2.opendns.com.",
             "Hostname": "myip.opendns.com.",
             "Type": "A"
         },
         {
+            "Index": 5,
             "Name": "Akamai",
             "Resolver": "ns1-1.akamaitech.net.",
             "Hostname": "whoami.akamai.net.",
             "Type": "A"
         },
         {
+            "Index": 6,
             "Name": "Akamai",
             "Resolver": "ns2-1.akamaitech.net.",
             "Hostname": "whoami.akamai.net.",
