@@ -7,12 +7,6 @@
             "Type": "A"
         },
         {
-            "Name": "Akamai",
-            "Resolver": "ns2-1.akamaitech.net.",
-            "Hostname": "whoami.akamai.net.",
-            "Type": "A"
-        },
-        {
             "Name": "Google",
             "Resolver": "ns1.google.com.",
             "Hostname": "o-o.myaddr.l.google.com.",
